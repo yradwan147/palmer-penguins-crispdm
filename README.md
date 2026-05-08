@@ -14,9 +14,23 @@ each with a visual + a small model.
 ## Files
 
 ```
-penguins_crispdm.ipynb     Executable end-to-end notebook (CRISP-DM phases)
-blog_post.md               Medium-style write-up of the findings
+penguins_crispdm.ipynb     Executable end-to-end notebook (all 6 CRISP-DM phases as section headers,
+                           analysis refactored into docstring-documented functions)
+blog_post.md               Medium-style write-up of the findings (with embedded charts)
+index.md, _config.yml      GitHub-Pages-rendered version of blog_post.md
+images/                    PNG charts referenced by the blog post
 ```
+
+## CRISP-DM phases
+
+The notebook has explicit section headers for each of the six phases:
+
+1. Business Understanding
+2. Data Understanding
+3. Data Preparation
+4. Data Modeling
+5. Evaluate Results
+6. Deployment
 
 ## Libraries
 
