@@ -1,5 +1,11 @@
 # What Makes a Penguin? — CRISP-DM on Palmer Penguins
 
+## Links
+
+- 📰 **Blog post (live on GitHub Pages):** https://yradwan147.github.io/palmer-penguins-crispdm/
+- 💻 **GitHub repository:** https://github.com/yradwan147/palmer-penguins-crispdm
+
+
 Final project for Udacity's *Data Scientist Nanodegree* introduction
 (nd025). A blog-style walkthrough of CRISP-DM applied to the **Palmer
 Penguins** dataset, asking three small business questions and answering
