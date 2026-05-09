@@ -1,5 +1,9 @@
 # What Makes a Penguin? Three Questions on the Palmer Penguins
 
+![Three Palmer penguins — Chinstrap, Gentoo, and Adélie — by Allison Horst](images/lter_penguins.png)
+
+*Cover art: Chinstrap, Gentoo, and Adélie penguins from the Palmer LTER programme — illustration © [Allison Horst](https://allisonhorst.github.io/palmerpenguins/) (CC-0).*
+
 The Palmer Penguins dataset has 344 rows of body measurements for three
 penguin species across three Antarctic islands. It's a friendly little
 dataset — small, clean enough to load in one line, and famously cited
